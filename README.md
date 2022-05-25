@@ -11,7 +11,7 @@ Fundamental Framework aims to create sound, transparent and rational guidelines,
 
 The framework for the evaluation of new projects divided into macro areas will be selected as follows:
 
-**[1.Phase one, initial study:]([url](https://github.com/FundamentalFramework/Framework/blob/main/1.NewProjectStudyPhase.adoc))** The first phase is quite fast, here low-level projects are discarded, those in which we consider scams, meme projects, or projects whose developers' aim is to get rich quickly by making the unsuspecting participants believe they can get rich quickly;
+**[1.Phase one, initial study:](https://github.com/FundamentalFramework/Framework/blob/main/1.NewProjectStudyPhase.adoc)** The first phase is quite fast, here low-level projects are discarded, those in which we consider scams, meme projects, or projects whose developers' aim is to get rich quickly by making the unsuspecting participants believe they can get rich quickly;
 
 
 **2. Second phase, qualitative elements:** After the first cut given by phase (1), the projects are analyzed in more detail such as; composition of the team, company, Whitepaper, tokenomics etc… this phase foresees a further cut to the projects that we consider not promising;
