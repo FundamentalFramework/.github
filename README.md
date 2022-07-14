@@ -34,6 +34,6 @@ Being an Open Source project, I hope that in the future collaborators will be ad
 We as human beings need time to internalize concepts and make them our own, but by ourselves it is impossible to do so, which is why I believe an open library is one of the best solutions to condense innovation and the genius of human beings.
 
 
-Who I am: I am a 36 year old boy, I live in Italy and I have been in the Cryptocurrency market since late 2013. I bought my first BTC at the peak of $ 1000 and I lost everything on January 14th 2015 after that, discovering the leverage (at the time I was trading on okcoin futures), I burned all the capital, I was devastated.
+Who I am: I am a 36 year old boy, I live in Italy and I have been in the Cryptocurrency market since late 2013. I bought my first BTC at the peak of $1000 and I lost everything on January 14th 2015 after that, discovering the leverage (at the time I was trading on okcoin futures), I burned all the capital, I was devastated.
 I have fallen many times, I was impulsive before. I didn't have an economic or financial background, my qualification is eighth grade. But over time I learned a lot, studied and took risks.
 The important thing is that when you fall you pick up something.
