@@ -14,7 +14,7 @@ The framework for the evaluation of new projects divided into macro areas will b
 **[1.Phase one, initial study:](https://github.com/FundamentalFramework/Framework/blob/main/1.NewProjectStudyPhase.adoc)** The first phase is quite fast, here low-level projects are discarded, those in which we consider scams, meme projects, or projects whose developers' aim is to get rich quickly by making the unsuspecting participants believe they can get rich quickly;
 
 
-**2. Second phase, qualitative elements:** After the first cut given by phase (1), the projects are analyzed in more detail such as; composition of the team, company, Whitepaper, tokenomics etc… this phase foresees a further cut to the projects that we consider not promising;
+**2. [Second phase, qualitative elements:](https://github.com/FundamentalFramework/Framework/blob/main/2.Qualitative_Analysis.adoc)** After the first cut given by [phase (1)](https://github.com/FundamentalFramework/Pergamena/edit/main/README.md#:~:text=1.Phase%20one%2C%20initial%20study%3A), the projects are analyzed in more detail such as; composition of the team, company, Whitepaper, tokenomics etc… this phase foresees a further cut to the projects that we consider not promising;
 
 
 
